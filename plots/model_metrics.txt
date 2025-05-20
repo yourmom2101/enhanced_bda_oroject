@@ -1,0 +1,8 @@
+Model Performance Metrics:
+========================
+
+R² Score: 0.9979
+Explained Variance: 0.9980
+RMSE: 3630.4499
+MAE: 1602.1691
+Mean Absolute Percentage Error: 0.7039
